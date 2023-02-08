@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "cafe": "testcafe chrome input_and_screenshot.js",
+    "kissa": "testcafe chrome screenshot.js"
+  },
+  "devDependencies": {
+    "date-fns": "^2.29.3",
+    "testcafe": "^2.3.0"
+  }
+}
